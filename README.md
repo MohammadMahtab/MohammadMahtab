@@ -1,33 +1,30 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
-  Hey, I'm Mohammad Mahtab
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/MohammadMahtab">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;PHP+%7C+Node.js+%7C+React+%7C+Laravel;Clean+Code+%2B+Great+UI+%2B+Solid+Backend;Building+Real+Products+That+Matter" alt="Typing SVG"/>
-  </a>
-</p>
+# Mohammad Mahtab
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohammadMahtab&color=6C63FF&style=for-the-badge&label=Profile+Views"/>
-</p>
+<a href="https://github.com/MohammadMahtab">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Complete+Web+Applications;PHP+%7C+Node.js+%7C+React+%7C+Laravel;Clean+Code+%2B+Great+UI+%2B+Solid+Backend" alt="Typing SVG"/>
+</a>
 
----
+<br/>
 
-## 🙋‍♂️ About Me
+[![Profile Views](https://komarev.com/ghpvc/?username=MohammadMahtab&label=Profile+Views&color=6C63FF&style=for-the-badge)](https://github.com/MohammadMahtab)
+[![GitHub followers](https://img.shields.io/github/followers/MohammadMahtab?label=Followers&style=for-the-badge&color=0075B4&logo=github)](https://github.com/MohammadMahtab)
+[![GitHub Stars](https://img.shields.io/github/stars/MohammadMahtab?label=Total+Stars&style=for-the-badge&color=FFD700&logo=github)](https://github.com/MohammadMahtab)
 
-I'm a **Full Stack Developer** who genuinely enjoys the whole process — designing the UI, writing the backend logic, and connecting it all with a solid database. I don't just write code to make things work; I care about making them work *well*.
-
-- I build complete apps — from landing page to database
-- Comfortable in both PHP world (Laravel, CodeIgniter) and JS world (Node, Express, React)
-- I have a design eye too — Photoshop and Canva are part of my toolkit
-- I pick up new tools fast and love staying current
-- Clean code, readable structure, and good UI are non-negotiable for me
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+I'm a **Full Stack Developer** who builds complete, production-ready web applications — from pixel-perfect frontends to robust backends. I genuinely enjoy the whole process: designing the UI, writing the logic, and connecting it all with a solid database. I don't just make things work — I make them work well.
+
+I'm comfortable across both the PHP ecosystem (Laravel, CodeIgniter) and the JavaScript world (Node.js, Express, React). I also bring a design eye to every project — Photoshop and Canva are as natural to me as writing code. Clean code, maintainable structure, and good UI are things I don't compromise on.
+
+---
+
+## Tech Stack
 
 **Frontend**
 
@@ -67,7 +64,7 @@ I'm a **Full Stack Developer** who genuinely enjoys the whole process — design
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -78,37 +75,40 @@ I'm a **Full Stack Developer** who genuinely enjoys the whole process — design
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Analytics
 
-<br/>
+<div align="center">
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohammadMahtab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahtab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=MohammadMahtab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
 
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadMahtab&theme=tokyonight&hide_border=true"/>
-</p>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahtab&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=MohammadMahtab&theme=tokyonight&hide_border=true&card_width=900"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadMahtab&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph"/>
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-<p align="center">
-  <a href="mailto:mohammadmahtab799@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohammadmahtab/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MohammadMahtab">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
-<br/>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadmahtab799@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadmahtab/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadMahtab)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer"/>
-</p>
+</div>
+
+---
+
+<div align="center">
+
+![Snake Animation](https://raw.githubusercontent.com/MohammadMahtab/MohammadMahtab/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+</div>
