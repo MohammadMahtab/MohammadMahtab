@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 24" role="img" aria-labelledby="md-title">
+  <title id="md-title">Decorative gradient divider</title>
+  <defs>
+    <linearGradient id="md-g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset=".25" stop-color="#22D3EE" stop-opacity=".85"/>
+      <stop offset=".75" stop-color="#60A5FA" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="11" width="1000" height="2" rx="1" fill="url(#md-g)"/>
+</svg>

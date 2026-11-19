@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" role="img" aria-labelledby="mb-title">
+  <title id="mb-title">Mohammad Mahtab, Full Stack Developer</title>
+  <defs>
+    <linearGradient id="mb-g" gradientUnits="userSpaceOnUse" x1="200" y1="0" x2="600" y2="0">
+      <stop offset="0" stop-color="#0891B2"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <linearGradient id="mb-gw" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="800" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#0891B2"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <linearGradient id="mb-gv" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0891B2"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .mb-sans{font-family:'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif}
+    .mb-mono{font-family:ui-monospace,'Cascadia Code',Consolas,monospace;font-size:24px}
+    .mb-t1,.mb-t2{clip-path:inset(0 100% 0 0)}
+    .mb-t0{animation:mb-t0 12s linear infinite}
+    .mb-t1{animation:mb-t1 12s linear infinite}
+    .mb-t2{animation:mb-t2 12s linear infinite}
+    .mb-cur{transform:translateX(594.4px);animation:mb-cur 12s linear infinite}
+    .mb-caret{animation:mb-blink 1s linear infinite}
+    .mb-w1{animation:mb-w1 42s linear infinite}
+    .mb-w2{animation:mb-w2 60s linear infinite}
+
+    @keyframes mb-t0{
+      0%{clip-path:inset(0 100% 0 0);animation-timing-function:steps(27,end)}
+      13.333%{clip-path:inset(0 0 0 0)}
+      25%{clip-path:inset(0 0 0 0);animation-timing-function:steps(27,end)}
+      32.5%{clip-path:inset(0 100% 0 0)}
+      100%{clip-path:inset(0 100% 0 0)}
+    }
+    @keyframes mb-t1{
+      0%{clip-path:inset(0 100% 0 0)}
+      33.333%{clip-path:inset(0 100% 0 0);animation-timing-function:steps(25,end)}
+      46.667%{clip-path:inset(0 0 0 0)}
+      58.333%{clip-path:inset(0 0 0 0);animation-timing-function:steps(25,end)}
+      65.833%{clip-path:inset(0 100% 0 0)}
+      100%{clip-path:inset(0 100% 0 0)}
+    }
+    @keyframes mb-t2{
+      0%{clip-path:inset(0 100% 0 0)}
+      66.667%{clip-path:inset(0 100% 0 0);animation-timing-function:steps(35,end)}
+      80%{clip-path:inset(0 0 0 0)}
+      91.667%{clip-path:inset(0 0 0 0);animation-timing-function:steps(35,end)}
+      99.167%{clip-path:inset(0 100% 0 0)}
+      100%{clip-path:inset(0 100% 0 0)}
+    }
+    @keyframes mb-cur{
+      0%{transform:translateX(205.6px);animation-timing-function:steps(27,end)}
+      13.333%{transform:translateX(594.4px)}
+      25%{transform:translateX(594.4px);animation-timing-function:steps(27,end)}
+      32.5%{transform:translateX(205.6px)}
+      33.333%{transform:translateX(220px);animation-timing-function:steps(25,end)}
+      46.667%{transform:translateX(580px)}
+      58.333%{transform:translateX(580px);animation-timing-function:steps(25,end)}
+      65.833%{transform:translateX(220px)}
+      66.667%{transform:translateX(148px);animation-timing-function:steps(35,end)}
+      80%{transform:translateX(652px)}
+      91.667%{transform:translateX(652px);animation-timing-function:steps(35,end)}
+      99.167%{transform:translateX(148px)}
+      100%{transform:translateX(205.6px)}
+    }
+    @keyframes mb-blink{
+      0%,49.9%{opacity:1}
+      50%,100%{opacity:0}
+    }
+    @keyframes mb-w1{from{transform:translateX(0)}to{transform:translateX(-1600px)}}
+    @keyframes mb-w2{from{transform:translateX(-1600px)}to{transform:translateX(0)}}
+
+    @media (prefers-reduced-motion:reduce){
+      .mb-t0,.mb-t1,.mb-t2,.mb-cur,.mb-caret,.mb-w1,.mb-w2{animation:none}
+      .mb-t1,.mb-t2,.mb-cur{display:none}
+    }
+  </style>
+
+  <text class="mb-sans" x="400" y="84" text-anchor="middle" font-size="56" font-weight="700" fill="url(#mb-g)">Mohammad Mahtab</text>
+  <text class="mb-sans" x="400" y="126" text-anchor="middle" font-size="24" font-weight="500" letter-spacing="1" fill="#59636E">Full Stack Developer</text>
+
+  <text class="mb-mono mb-t0" x="205.6" y="170" textLength="388.8" lengthAdjust="spacing" fill="#1F2328">PHP &#183; Laravel &#183; CodeIgniter</text>
+  <text class="mb-mono mb-t1" x="220" y="170" textLength="360" lengthAdjust="spacing" fill="#1F2328">Node.js &#183; Express &#183; React</text>
+  <text class="mb-mono mb-t2" x="148" y="170" textLength="504" lengthAdjust="spacing" fill="#1F2328">Business websites &#183; CRMs &#183; Web apps</text>
+  <g class="mb-cur"><rect class="mb-caret" x="0" y="149" width="2.5" height="26" rx="1.25" fill="url(#mb-gv)"/></g>
+
+  <g fill="none" stroke="url(#mb-gw)" stroke-linecap="round">
+    <path class="mb-w1" opacity=".35" stroke-width="2" d="M0,208 Q100,188 200,208 T400,208 T600,208 T800,208 T1000,208 T1200,208 T1400,208 T1600,208 T1800,208 T2000,208 T2200,208 T2400,208"/>
+    <path class="mb-w2" opacity=".18" stroke-width="1.5" d="M0,216 Q80,232 160,216 T320,216 T480,216 T640,216 T800,216 T960,216 T1120,216 T1280,216 T1440,216 T1600,216 T1760,216 T1920,216 T2080,216 T2240,216 T2400,216"/>
+  </g>
+</svg>
