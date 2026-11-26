@@ -82,12 +82,12 @@ I'm a full stack developer. I build business websites, CRM systems and e-commerc
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sage-nu-31.vercel.app/api?username=MohammadMahtab&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&card_width=400&hide_border=true&bg_color=0d1117&title_color=34D399&text_color=E6EDF3&icon_color=22D3EE">
-    <img src="https://github-readme-stats-sage-nu-31.vercel.app/api?username=MohammadMahtab&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&card_width=400&hide_border=true&bg_color=ffffff&title_color=047857&text_color=1F2328&icon_color=0E7490" alt="GitHub stats for Mohammad Mahtab: stars, commits, pull requests and issues" width="400" align="middle">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sage-nu-31.vercel.app/api?username=MohammadMahtab&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&t=2&card_width=400&hide_border=true&bg_color=0d1117&title_color=34D399&text_color=E6EDF3&icon_color=22D3EE">
+    <img src="https://github-readme-stats-sage-nu-31.vercel.app/api?username=MohammadMahtab&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&t=2&card_width=400&hide_border=true&bg_color=ffffff&title_color=047857&text_color=1F2328&icon_color=0E7490" alt="GitHub stats for Mohammad Mahtab: stars, commits, pull requests and issues" width="400" align="middle">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sage-nu-31.vercel.app/api/top-langs?username=MohammadMahtab&layout=donut-vertical&langs_count=6&hide_border=true&bg_color=0d1117&title_color=34D399&text_color=E6EDF3">
-    <img src="https://github-readme-stats-sage-nu-31.vercel.app/api/top-langs?username=MohammadMahtab&layout=donut-vertical&langs_count=6&hide_border=true&bg_color=ffffff&title_color=047857&text_color=1F2328" alt="Most used programming languages of Mohammad Mahtab" width="320" align="middle">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sage-nu-31.vercel.app/api/top-langs?username=MohammadMahtab&layout=donut-vertical&langs_count=6&hide_border=true&t=2&bg_color=0d1117&title_color=34D399&text_color=E6EDF3">
+    <img src="https://github-readme-stats-sage-nu-31.vercel.app/api/top-langs?username=MohammadMahtab&layout=donut-vertical&langs_count=6&hide_border=true&t=2&bg_color=ffffff&title_color=047857&text_color=1F2328" alt="Most used programming languages of Mohammad Mahtab" width="320" align="middle">
   </picture>
 </p>
 
@@ -100,8 +100,8 @@ I'm a full stack developer. I build business websites, CRM systems and e-commerc
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MohammadMahtab&bg_color=0d1117&color=34D399&line=34D399&point=E6EDF3&area=true&area_color=34D399&hide_border=true&height=400&custom_title=Contribution%20Activity">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadMahtab&bg_color=ffffff&color=047857&line=059669&point=1F2328&area=true&area_color=059669&hide_border=true&height=400&custom_title=Contribution%20Activity" alt="Contribution activity graph of Mohammad Mahtab" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MohammadMahtab&bg_color=0d1117&color=34D399&line=34D399&point=E6EDF3&area=true&area_color=34D399&hide_border=true&height=400&custom_title=Mohammad%20Mahtab%27s%20Contribution%20Activity">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadMahtab&bg_color=ffffff&color=047857&line=059669&point=1F2328&area=true&area_color=059669&hide_border=true&height=400&custom_title=Mohammad%20Mahtab%27s%20Contribution%20Activity" alt="Contribution activity graph of Mohammad Mahtab" width="100%">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammadMahtab/MohammadMahtab/output/snake-dark.svg?v=2">
